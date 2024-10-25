@@ -1,0 +1,19 @@
+{
+	"name": "react-dasar-assignment-student-portal-2",
+	"course": "Frontend Web Development with React",
+	"title": "Assignment - Student Portal part 2",
+	"order": 999,
+	"topics": [
+		"List and Keys",
+		"Conditional Rendering",
+		"React Hooks",
+		"Event Handling",
+		"Data Fetching in React"
+	],
+	"image": "react-js",
+	"command": "npm run test",
+	"totalTestCase": 5,
+	"metadata": {
+		"type": "assignment"
+	}
+}
